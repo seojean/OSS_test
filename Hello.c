@@ -2,6 +2,10 @@
 #include<stdio.h>
 int main()
 {
+  //추가한 부분
+  int a = 5;
+  printf("%d",a);
+  
   printf("Hello, World!");
   return 0;
 }
