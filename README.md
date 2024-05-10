@@ -31,4 +31,4 @@ print("Hello, World!")
 
 [네이버 링크](naver.com)
 
-- [] 할 일
+- [ ] 할 일
